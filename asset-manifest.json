@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://rao8969.github.io/csb-4lzynq/static/css/main.bed9c162.chunk.css",
+    "main.js": "https://rao8969.github.io/csb-4lzynq/static/js/main.1d1f4455.chunk.js",
+    "main.js.map": "https://rao8969.github.io/csb-4lzynq/static/js/main.1d1f4455.chunk.js.map",
+    "runtime-main.js": "https://rao8969.github.io/csb-4lzynq/static/js/runtime-main.0d25d8d4.js",
+    "runtime-main.js.map": "https://rao8969.github.io/csb-4lzynq/static/js/runtime-main.0d25d8d4.js.map",
+    "static/js/2.c4878cb3.chunk.js": "https://rao8969.github.io/csb-4lzynq/static/js/2.c4878cb3.chunk.js",
+    "static/js/2.c4878cb3.chunk.js.map": "https://rao8969.github.io/csb-4lzynq/static/js/2.c4878cb3.chunk.js.map",
+    "index.html": "https://rao8969.github.io/csb-4lzynq/index.html",
+    "static/css/main.bed9c162.chunk.css.map": "https://rao8969.github.io/csb-4lzynq/static/css/main.bed9c162.chunk.css.map",
+    "static/js/2.c4878cb3.chunk.js.LICENSE.txt": "https://rao8969.github.io/csb-4lzynq/static/js/2.c4878cb3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0d25d8d4.js",
+    "static/js/2.c4878cb3.chunk.js",
+    "static/css/main.bed9c162.chunk.css",
+    "static/js/main.1d1f4455.chunk.js"
+  ]
+}
